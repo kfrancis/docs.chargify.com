@@ -1,0 +1,9 @@
+Custom Fields (also called Metafields) allow you to collect additional data from your customers and store it with their subscriptions.
+
+h2(#types). Types of Custom Fields
+
+h3(#text). Text
+
+h3(#drop-down). Drop Down
+
+h3(#radio-button). Radio Button
